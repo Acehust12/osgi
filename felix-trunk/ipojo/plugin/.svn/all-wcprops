@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1159991/felix/trunk/ipojo/plugin
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1060932/felix/trunk/ipojo/plugin/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/653550/felix/trunk/ipojo/plugin/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1062891/felix/trunk/ipojo/plugin/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/plugin/pom.xml
+END

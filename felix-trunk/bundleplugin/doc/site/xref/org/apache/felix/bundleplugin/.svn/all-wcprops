@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin
+END
+BundleAllPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/BundleAllPlugin.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/package-frame.html
+END
+JarPluginConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/JarPluginConfiguration.html
+END
+InstructionsPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/InstructionsPlugin.html
+END
+BlueprintPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/BlueprintPlugin.html
+END
+ManifestPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/ManifestPlugin.html
+END
+BundleInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/BundleInfo.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/package-summary.html
+END
+WrapPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/WrapPlugin.html
+END
+BundlePlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/BundlePlugin.html
+END
+VersionCleanerPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/VersionCleanerPlugin.html
+END
+AntPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/AntPlugin.html
+END
+DependencyEmbedder.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/DependencyEmbedder.html
+END
+PackageVersionAnalyzer.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/PackageVersionAnalyzer.html
+END
+AbstractDependencyFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/AbstractDependencyFilter.html
+END
+DependencyExcluder.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/bundleplugin/DependencyExcluder.html
+END

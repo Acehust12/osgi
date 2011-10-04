@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources
+END
+referral1_repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources/referral1_repository.xml
+END
+repo_for_mandatory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources/repo_for_mandatory.xml
+END
+repo_for_optional_resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources/repo_for_optional_resources.xml
+END
+repo_for_resolvertest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources/repo_for_resolvertest.xml
+END
+referred.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1141294/felix/trunk/bundlerepository/src/test/resources/referred.xml
+END

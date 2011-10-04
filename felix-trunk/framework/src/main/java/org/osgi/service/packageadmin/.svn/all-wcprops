@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1153153/felix/trunk/framework/src/main/java/org/osgi/service/packageadmin
+END
+PackageAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/service/packageadmin/PackageAdmin.java
+END
+ExportedPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/service/packageadmin/ExportedPackage.java
+END
+RequiredBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/service/packageadmin/RequiredBundle.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1176365/felix/trunk/scrplugin/maven-scr-plugin/src/main/java/org/apache/felix/scrplugin/mojo
+END
+MavenJavaClassDescriptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1176365/felix/trunk/scrplugin/maven-scr-plugin/src/main/java/org/apache/felix/scrplugin/mojo/MavenJavaClassDescriptorManager.java
+END
+MavenLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1025935/felix/trunk/scrplugin/maven-scr-plugin/src/main/java/org/apache/felix/scrplugin/mojo/MavenLog.java
+END
+SCRDescriptorMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1156554/felix/trunk/scrplugin/maven-scr-plugin/src/main/java/org/apache/felix/scrplugin/mojo/SCRDescriptorMojo.java
+END

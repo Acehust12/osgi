@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1151402/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index
+END
+BundleContextInterceptorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1097027/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/BundleContextInterceptorBase.java
+END
+MultiPropertyExactFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1138326/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/MultiPropertyExactFilter.java
+END
+FilterIndexBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1097027/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/FilterIndexBundleContext.java
+END
+AspectFilterIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1101416/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/AspectFilterIndex.java
+END
+BundleContextInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1151402/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/BundleContextInterceptor.java
+END
+ServiceRegistryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1101356/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/index/ServiceRegistryCache.java
+END

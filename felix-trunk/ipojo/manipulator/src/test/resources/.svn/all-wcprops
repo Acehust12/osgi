@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/resources
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/resources/metadata.xml
+END
+tests.manipulation-no-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/resources/tests.manipulation-no-annotations.jar
+END
+tests.manipulation.java5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/resources/tests.manipulation.java5.jar
+END
+tests.manipulator-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/resources/tests.manipulator-annotations.jar
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/resources/MANIFEST.MF
+END
+empty-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/resources/empty-metadata.xml
+END

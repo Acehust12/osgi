@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1137692/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies
+END
+ServiceDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1079396/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/ServiceDependencyImpl.java
+END
+TemporalServiceDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1096719/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/TemporalServiceDependencyImpl.java
+END
+ConfigurationDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1137692/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/ConfigurationDependencyImpl.java
+END
+ResourceDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1096719/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/ResourceDependencyImpl.java
+END
+DependencyBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1096719/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/DependencyBase.java
+END
+BundleDependencyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1096719/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/dependencies/BundleDependencyImpl.java
+END

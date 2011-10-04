@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/992236/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project
+END
+ProjectTableViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ProjectTableViewer.java
+END
+AbstractResourceSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/AbstractResourceSection.java
+END
+TestingSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/TestingSection.java
+END
+ResourceImportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ResourceImportDialog.java
+END
+ClasspathSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ClasspathSection.java
+END
+PackageExportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/PackageExportDialog.java
+END
+ContentSummarySection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ContentSummarySection.java
+END
+RequiresBundleSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/RequiresBundleSection.java
+END
+GeneralInfoSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/GeneralInfoSection.java
+END
+PropertiesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/PropertiesForm.java
+END
+NewPackageExportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/NewPackageExportDialog.java
+END
+NewResourceSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/NewResourceSelectionDialog.java
+END
+ExportsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ExportsForm.java
+END
+BundleDependencySection.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/BundleDependencySection.java
+END
+PackageContentsSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983555/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/PackageContentsSection.java
+END
+ImportPackagesSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ImportPackagesSection.java
+END
+DependencyManagementSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/DependencyManagementSection.java
+END
+ExportPackagesSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/991921/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ExportPackagesSection.java
+END
+ResourceSelectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ResourceSelectDialog.java
+END
+DependenciesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/DependenciesForm.java
+END
+IDependencyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/IDependencyChecker.java
+END
+ProjectLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ProjectLabelProvider.java
+END
+ContentsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ContentsForm.java
+END
+VersionsChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/VersionsChangeListener.java
+END
+VersionRangeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/VersionRangeComponent.java
+END
+ToolsSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ToolsSection.java
+END
+SigilSourcePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/SigilSourcePage.java
+END
+OverviewForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/OverviewForm.java
+END
+SigilProjectEditorPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983664/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/SigilProjectEditorPart.java
+END
+ResourceBuildSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/992236/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ResourceBuildSection.java
+END
+ExcludedResourcesFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/editors/project/ExcludedResourcesFilter.java
+END

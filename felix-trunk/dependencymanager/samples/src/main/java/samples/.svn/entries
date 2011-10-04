@@ -1,0 +1,40 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/dependencymanager/samples/src/main/java/samples
+http://svn.apache.org/repos/asf
+
+
+
+2011-04-22T18:03:02.082939Z
+1095973
+pderop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+trackingserviceswithcallbacks
+dir
+
+dependonconfiguration
+dir
+
+registerservice
+dir
+
+dependonservice
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin
+END
+AbstractBundlePluginTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/AbstractBundlePluginTest.html
+END
+BundleAllPluginTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/BundleAllPluginTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/package-summary.html
+END
+BlueprintComponentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/BlueprintComponentTest.html
+END
+BundlePluginTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref-test/org/apache/felix/bundleplugin/BundlePluginTest.html
+END

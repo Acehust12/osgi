@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1166675/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal
+END
+DirectoryWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1132718/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/DirectoryWatcher.java
+END
+ConfigInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071908/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/ConfigInstaller.java
+END
+FileInstall.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1166675/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/FileInstall.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/938984/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/Scanner.java
+END
+BundleTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1027387/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/BundleTransformer.java
+END
+JarDirUrlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/825120/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/JarDirUrlHandler.java
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/825120/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/Artifact.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1027388/felix/trunk/fileinstall/src/main/java/org/apache/felix/fileinstall/internal/Util.java
+END

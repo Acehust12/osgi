@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1172744/felix/trunk/utils/src/test/java/org/apache/felix/utils/properties
+END
+InterpolationHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1027382/felix/trunk/utils/src/test/java/org/apache/felix/utils/properties/InterpolationHelperTest.java
+END
+MockBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1027382/felix/trunk/utils/src/test/java/org/apache/felix/utils/properties/MockBundleContext.java
+END
+PropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1172744/felix/trunk/utils/src/test/java/org/apache/felix/utils/properties/PropertiesTest.java
+END

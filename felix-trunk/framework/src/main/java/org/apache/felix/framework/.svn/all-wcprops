@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1177749/felix/trunk/framework/src/main/java/org/apache/felix/framework
+END
+BundleRevisionDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1162843/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleRevisionDependencies.java
+END
+FrameworkWiringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1128515/felix/trunk/framework/src/main/java/org/apache/felix/framework/FrameworkWiringImpl.java
+END
+URLHandlersStreamHandlerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1092815/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlersStreamHandlerProxy.java
+END
+BundleContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1169945/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleContextImpl.java
+END
+URLHandlersActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1127547/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlersActivator.java
+END
+FakeURLStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/framework/src/main/java/org/apache/felix/framework/FakeURLStreamHandler.java
+END
+WovenClassImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1169690/felix/trunk/framework/src/main/java/org/apache/felix/framework/WovenClassImpl.java
+END
+FilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1136149/felix/trunk/framework/src/main/java/org/apache/felix/framework/FilterImpl.java
+END
+Felix.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1174168/felix/trunk/framework/src/main/java/org/apache/felix/framework/Felix.java
+END
+StartLevelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1167351/felix/trunk/framework/src/main/java/org/apache/felix/framework/StartLevelImpl.java
+END
+ExtensionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1172801/felix/trunk/framework/src/main/java/org/apache/felix/framework/ExtensionManager.java
+END
+BundleProtectionDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1134391/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleProtectionDomain.java
+END
+StatefulResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1177749/felix/trunk/framework/src/main/java/org/apache/felix/framework/StatefulResolver.java
+END
+BundleRevisionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1165664/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleRevisionImpl.java
+END
+BundleWiringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1173299/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleWiringImpl.java
+END
+ServiceRegistrationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1134391/felix/trunk/framework/src/main/java/org/apache/felix/framework/ServiceRegistrationImpl.java
+END
+EntryFilterEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1153630/felix/trunk/framework/src/main/java/org/apache/felix/framework/EntryFilterEnumeration.java
+END
+URLHandlersContentHandlerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/810183/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlersContentHandlerProxy.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1062903/felix/trunk/framework/src/main/java/org/apache/felix/framework/Logger.java
+END
+URLHandlersBundleURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1153652/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlersBundleURLConnection.java
+END
+URLHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/999642/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlers.java
+END
+FrameworkStartLevelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1128515/felix/trunk/framework/src/main/java/org/apache/felix/framework/FrameworkStartLevelImpl.java
+END
+FrameworkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/750065/felix/trunk/framework/src/main/java/org/apache/felix/framework/FrameworkFactory.java
+END
+PackageAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1167351/felix/trunk/framework/src/main/java/org/apache/felix/framework/PackageAdminImpl.java
+END
+URLHandlersBundleStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1104564/felix/trunk/framework/src/main/java/org/apache/felix/framework/URLHandlersBundleStreamHandler.java
+END
+ExportedPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1136150/felix/trunk/framework/src/main/java/org/apache/felix/framework/ExportedPackageImpl.java
+END
+ServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1162258/felix/trunk/framework/src/main/java/org/apache/felix/framework/ServiceRegistry.java
+END
+BundleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1173329/felix/trunk/framework/src/main/java/org/apache/felix/framework/BundleImpl.java
+END
+RequiredBundleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1104564/felix/trunk/framework/src/main/java/org/apache/felix/framework/RequiredBundleImpl.java
+END

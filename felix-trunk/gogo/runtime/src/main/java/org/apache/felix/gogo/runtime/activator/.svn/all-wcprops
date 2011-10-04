@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1055339/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/activator
+END
+EventAdminListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1055339/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/activator/EventAdminListener.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1055339/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/activator/Activator.java
+END

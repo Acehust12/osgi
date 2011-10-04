@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1169675/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/condpermadmin
+END
+DomainGripper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/897721/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/condpermadmin/DomainGripper.java
+END
+ConditionalPermissionAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1167140/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/condpermadmin/ConditionalPermissionAdminImpl.java
+END
+ConditionalPermissionInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1169675/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/condpermadmin/ConditionalPermissionInfoImpl.java
+END

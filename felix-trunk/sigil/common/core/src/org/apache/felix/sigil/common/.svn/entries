@@ -1,0 +1,49 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common
+http://svn.apache.org/repos/asf
+
+
+
+2011-03-23T22:22:01.960631Z
+1084783
+dsavage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+repository
+dir
+
+model
+dir
+
+bnd
+dir
+
+progress
+dir
+
+config
+dir
+
+core
+dir
+
+util
+dir
+

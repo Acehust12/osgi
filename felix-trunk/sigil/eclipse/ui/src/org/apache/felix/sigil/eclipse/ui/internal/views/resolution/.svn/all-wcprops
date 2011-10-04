@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/992364/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution
+END
+BundleGraphContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleGraphContentProvider.java
+END
+BundleGraphLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleGraphLabelProvider.java
+END
+BundleResolverView.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/992289/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleResolverView.java
+END
+BundleConnectionHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleConnectionHighlighter.java
+END
+BundleGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleGraph.java
+END
+BundleGraphViewFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/BundleGraphViewFilter.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/Link.java
+END
+EditorViewPartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/992364/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/views/resolution/EditorViewPartListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/store
+END
+JarFileResourceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/store/JarFileResourceStore.java
+END
+DirectoryResourceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/store/DirectoryResourceStore.java
+END
+ResourceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/store/ResourceMapper.java
+END
+ManifestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159877/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/store/ManifestBuilder.java
+END

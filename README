@@ -1,0 +1,18 @@
+Build a Bundle
+==============
+
+cd /Users/ahorne/Osgi/felix-tutorials/felix-tutorial-example1
+mvn clean package
+ls /Users/ahorne/Osgi/felix-tutorials/felix-tutorial-example1/target/*.jar
+
+Start Felix and Install Bundle
+==============================
+cd /Users/ahorne/Osgi/
+start-felix.sh
+install file:/Users/ahorne/Osgi/felix-tutorials/felix-tutorial-example1/target/felix-tutorial-example1-1.0-SNAPSHOT.jar
+start <bundle-id>
+stop <bundle-id>
+
+Exit Felix Shell
+================
+stop 0

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 87
+.settings
+target
+.checkstyle
+.classpath
+.project
+org.apache.felix.ipojo.webconsole.iml
+
+END

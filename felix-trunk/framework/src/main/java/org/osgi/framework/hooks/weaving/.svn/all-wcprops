@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/weaving
+END
+WeavingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/weaving/WeavingException.java
+END
+WeavingHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/weaving/WeavingHook.java
+END
+WovenClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/weaving/WovenClass.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/visitor/check
+END
+CheckFieldConsistencyResultVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/visitor/check/CheckFieldConsistencyResultVisitor.java
+END
+CheckFieldConsistencyVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159881/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulator/visitor/check/CheckFieldConsistencyVisitor.java
+END

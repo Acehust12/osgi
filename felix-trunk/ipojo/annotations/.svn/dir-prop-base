@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 140
+target
+bin
+.settings
+.checkstyle
+.classpath
+.project
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+org.apache.felix.ipojo.annotations.iml
+
+END

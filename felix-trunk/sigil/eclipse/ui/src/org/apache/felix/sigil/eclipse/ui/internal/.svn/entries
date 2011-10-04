@@ -1,0 +1,64 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal
+http://svn.apache.org/repos/asf
+
+
+
+2010-09-11T05:29:15.010726Z
+996072
+dsavage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+repository
+dir
+
+handlers
+dir
+
+wizard
+dir
+
+preferences
+dir
+
+classpath
+dir
+
+startup
+dir
+
+form
+dir
+
+quickfix
+dir
+
+refactor
+dir
+
+editors
+dir
+
+perspective
+dir
+
+views
+dir
+

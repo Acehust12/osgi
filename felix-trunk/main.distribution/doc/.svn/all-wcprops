@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1174178/felix/trunk/main.distribution/doc
+END
+apache-felix-gogo.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/952002/felix/trunk/main.distribution/doc/apache-felix-gogo.html
+END
+changelog_framework.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1174176/felix/trunk/main.distribution/doc/changelog_framework.txt
+END
+changelog_gogo.runtime.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1072995/felix/trunk/main.distribution/doc/changelog_gogo.runtime.txt
+END
+apache-felix-framework-configuration-properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1052946/felix/trunk/main.distribution/doc/apache-felix-framework-configuration-properties.html
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1174178/felix/trunk/main.distribution/doc/changelog.txt
+END
+changelog_gogo.shell.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1072995/felix/trunk/main.distribution/doc/changelog_gogo.shell.txt
+END
+apache-felix-framework-launching-and-embedding.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1052946/felix/trunk/main.distribution/doc/apache-felix-framework-launching-and-embedding.html
+END
+changelog_main.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1174124/felix/trunk/main.distribution/doc/changelog_main.txt
+END
+apache-felix-osgi-bundle-repository.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/910114/felix/trunk/main.distribution/doc/apache-felix-osgi-bundle-repository.html
+END
+apache-felix-framework-usage-documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/952002/felix/trunk/main.distribution/doc/apache-felix-framework-usage-documentation.html
+END
+changelog_gogo.command.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1174124/felix/trunk/main.distribution/doc/changelog_gogo.command.txt
+END
+changelog_bundlerepository.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/910114/felix/trunk/main.distribution/doc/changelog_bundlerepository.txt
+END

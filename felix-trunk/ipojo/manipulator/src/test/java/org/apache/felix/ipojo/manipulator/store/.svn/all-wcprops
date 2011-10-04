@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store
+END
+DirectoryResourceStoreTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/DirectoryResourceStoreTestCase.java
+END
+JarFileResourceStoreTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/JarFileResourceStoreTestCase.java
+END

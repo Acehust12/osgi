@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Export-Package: tutorial.example1;uses:="org.osgi.framework";version="
+ 1.0.0.SNAPSHOT"
+Built-By: ahorne
+Tool: Bnd-1.43.0
+Bundle-Name: felix-tutorial-example1
+Created-By: Apache Maven Bundle Plugin
+Bundle-Version: 1.0.0.SNAPSHOT
+Build-Jdk: 1.6.0_26
+Bnd-LastModified: 1317743902457
+Bundle-ManifestVersion: 2
+Bundle-Activator: tutorial.example1.Activator
+Import-Package: org.osgi.framework;version="[1.3,2)"
+Bundle-SymbolicName: tutorial.example1.felix-tutorial-example1
+

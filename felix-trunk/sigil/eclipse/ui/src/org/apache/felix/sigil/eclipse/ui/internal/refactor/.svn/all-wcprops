@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/983715/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor
+END
+RenameActivatorPackageParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/RenameActivatorPackageParticipant.java
+END
+MovePackageParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983558/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/MovePackageParticipant.java
+END
+MoveActivatorParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/MoveActivatorParticipant.java
+END
+RenamePackageParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/RenamePackageParticipant.java
+END
+ExportPackageChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983715/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/ExportPackageChange.java
+END
+RefactorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983558/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/RefactorUtil.java
+END
+RenameActivatorParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/RenameActivatorParticipant.java
+END
+MoveExportedClassParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/983559/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/MoveExportedClassParticipant.java
+END
+ExportChangePreviewViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983715/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/ExportChangePreviewViewer.java
+END
+BundleActivatorChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/BundleActivatorChange.java
+END
+ImportPackageChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/refactor/ImportPackageChange.java
+END

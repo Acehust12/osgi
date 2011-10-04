@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1126383/felix/trunk/dependencymanager/runtime
+END
+findbugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1064329/felix/trunk/dependencymanager/runtime/findbugs.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1078195/felix/trunk/dependencymanager/runtime/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1078195/felix/trunk/dependencymanager/runtime/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1099081/felix/trunk/dependencymanager/runtime/DEPENDENCIES
+END
+LICENSE.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1097847/felix/trunk/dependencymanager/runtime/LICENSE.json
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1125833/felix/trunk/dependencymanager/runtime/pom.xml
+END

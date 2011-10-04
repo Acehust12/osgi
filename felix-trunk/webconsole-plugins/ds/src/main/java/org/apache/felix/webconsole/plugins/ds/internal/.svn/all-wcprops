@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1176789/felix/trunk/webconsole-plugins/ds/src/main/java/org/apache/felix/webconsole/plugins/ds/internal
+END
+WebConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1176789/felix/trunk/webconsole-plugins/ds/src/main/java/org/apache/felix/webconsole/plugins/ds/internal/WebConsolePlugin.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/ds/src/main/java/org/apache/felix/webconsole/plugins/ds/internal/Activator.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/ds/src/main/java/org/apache/felix/webconsole/plugins/ds/internal/Util.java
+END
+ComponentConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/ds/src/main/java/org/apache/felix/webconsole/plugins/ds/internal/ComponentConfigurationPrinter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/996072/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/classpath
+END
+SigilClasspathContainerInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/996072/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/classpath/SigilClasspathContainerInitializer.java
+END
+SigilLibraryPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/classpath/SigilLibraryPage.java
+END
+SigilClassPathContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/996072/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/classpath/SigilClassPathContainer.java
+END

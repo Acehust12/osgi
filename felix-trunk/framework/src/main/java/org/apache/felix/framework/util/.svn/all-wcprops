@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1173297/felix/trunk/framework/src/main/java/org/apache/felix/framework/util
+END
+SecurityManagerEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/SecurityManagerEx.java
+END
+ListenerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1152217/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/ListenerInfo.java
+END
+WeakZipFileFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1170195/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/WeakZipFileFactory.java
+END
+VersionRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/918505/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/VersionRange.java
+END
+Mutex.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/Mutex.java
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/938241/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/StringMap.java
+END
+FelixConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1152879/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/FelixConstants.java
+END
+MapToDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1022720/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/MapToDictionary.java
+END
+ThreadGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/790181/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/ThreadGate.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1173297/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/Util.java
+END
+ShrinkableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1151630/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/ShrinkableMap.java
+END
+SecureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/SecureAction.java
+END
+EventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1169945/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/EventDispatcher.java
+END
+CompoundEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/615809/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/CompoundEnumeration.java
+END
+ShrinkableCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1151630/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/ShrinkableCollection.java
+END
+StringComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/938241/felix/trunk/framework/src/main/java/org/apache/felix/framework/util/StringComparator.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1176892/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin
+END
+JavaClassDescriptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1176892/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/JavaClassDescriptorManager.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/Log.java
+END
+SCRDescriptorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/SCRDescriptorException.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/Constants.java
+END
+SCRDescriptorFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/SCRDescriptorFailureException.java
+END
+SCRDescriptorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1132907/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/SCRDescriptorGenerator.java
+END

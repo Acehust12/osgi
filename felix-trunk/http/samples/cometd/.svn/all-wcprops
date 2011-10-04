@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1174750/felix/trunk/http/samples/cometd
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1076920/felix/trunk/http/samples/cometd/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1076920/felix/trunk/http/samples/cometd/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1076920/felix/trunk/http/samples/cometd/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1174750/felix/trunk/http/samples/cometd/pom.xml
+END

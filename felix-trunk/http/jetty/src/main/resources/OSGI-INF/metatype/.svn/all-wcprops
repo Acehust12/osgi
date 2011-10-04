@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1174722/felix/trunk/http/jetty/src/main/resources/OSGI-INF/metatype
+END
+metatype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1174722/felix/trunk/http/jetty/src/main/resources/OSGI-INF/metatype/metatype.properties
+END
+metatype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1174722/felix/trunk/http/jetty/src/main/resources/OSGI-INF/metatype/metatype.xml
+END

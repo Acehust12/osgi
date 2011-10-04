@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 80
+.project
+.classpath
+target
+.settings
+.checkstyle
+org.apache.felix.ipojo.api.iml
+
+END

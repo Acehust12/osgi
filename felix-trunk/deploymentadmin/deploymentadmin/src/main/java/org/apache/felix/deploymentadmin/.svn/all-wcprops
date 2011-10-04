@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1177325/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin
+END
+VersionRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/VersionRange.java
+END
+BundleInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/BundleInfoImpl.java
+END
+StreamDeploymentPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1177325/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/StreamDeploymentPackage.java
+END
+DeploymentAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1177325/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/DeploymentAdminImpl.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/Constants.java
+END
+OutputtingInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/OutputtingInputStream.java
+END
+AbstractInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/AbstractInfo.java
+END
+NonCloseableStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/NonCloseableStream.java
+END
+AbstractDeploymentPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1177325/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/AbstractDeploymentPackage.java
+END
+Semaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/Semaphore.java
+END
+DeploymentPackageManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/DeploymentPackageManifest.java
+END
+ResourceInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/ResourceInfoImpl.java
+END
+ExplodingOutputtingInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/ExplodingOutputtingInputStream.java
+END
+FileDeploymentPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1177325/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/FileDeploymentPackage.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1095783/felix/trunk/deploymentadmin/deploymentadmin/src/main/java/org/apache/felix/deploymentadmin/Activator.java
+END

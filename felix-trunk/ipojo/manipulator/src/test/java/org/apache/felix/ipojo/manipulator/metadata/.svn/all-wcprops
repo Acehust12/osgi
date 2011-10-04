@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata
+END
+CacheableMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/CacheableMetadataProviderTestCase.java
+END
+AnnotationMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/AnnotationMetadataProviderTestCase.java
+END
+StreamMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/StreamMetadataProviderTestCase.java
+END
+EmptyMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/EmptyMetadataProviderTestCase.java
+END
+FileMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/FileMetadataProviderTestCase.java
+END
+CompositeMetadataProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/metadata/CompositeMetadataProviderTestCase.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1084784/felix/trunk/sigil/gogo/junit/src/org/apache/felix/sigil/gogo/junit
+END
+PrintListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/gogo/junit/src/org/apache/felix/sigil/gogo/junit/PrintListener.java
+END
+SigilTestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/990075/felix/trunk/sigil/gogo/junit/src/org/apache/felix/sigil/gogo/junit/SigilTestAdapter.java
+END
+SigilJunitRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/991921/felix/trunk/sigil/gogo/junit/src/org/apache/felix/sigil/gogo/junit/SigilJunitRunner.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1084784/felix/trunk/sigil/gogo/junit/src/org/apache/felix/sigil/gogo/junit/Activator.java
+END

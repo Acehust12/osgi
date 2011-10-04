@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher
+END
+PublisherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/PublisherImpl.java
+END
+PublisherDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/PublisherDescription.java
+END
+EventAdminPublisherHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/EventAdminPublisherHandler.java
+END
+EventAdminPublisherMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/EventAdminPublisherMetadata.java
+END
+EventAdminPublisherHandlerDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/EventAdminPublisherHandlerDescription.java
+END
+Publisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1044689/felix/trunk/ipojo/handler/eventadmin/src/main/java/org/apache/felix/ipojo/handlers/event/publisher/Publisher.java
+END

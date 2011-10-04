@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1151763/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl
+END
+MetaTypeProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1004977/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/MetaTypeProviderImpl.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1022638/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/Configuration.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/910976/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/Activator.java
+END
+EventAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1074155/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/EventAdminImpl.java
+END

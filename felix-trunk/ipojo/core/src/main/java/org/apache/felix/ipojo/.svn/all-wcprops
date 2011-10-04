@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1178159/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo
+END
+MethodInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/756042/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/MethodInterceptor.java
+END
+InstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1090817/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/InstanceManager.java
+END
+ServiceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ServiceContext.java
+END
+HandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/HandlerFactory.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/791729/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/Factory.java
+END
+HandlerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/HandlerManager.java
+END
+InstanceStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/InstanceStateListener.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/710023/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/Handler.java
+END
+UnacceptableConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/UnacceptableConfiguration.java
+END
+FactoryStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/FactoryStateListener.java
+END
+ConstructorInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ConstructorInjector.java
+END
+InstanceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1037859/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/InstanceCreator.java
+END
+PolicyServiceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/PolicyServiceContext.java
+END
+IPojoContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/749624/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/IPojoContext.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ConfigurationException.java
+END
+ComponentInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ComponentInstance.java
+END
+ComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1056402/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ComponentFactory.java
+END
+ContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ContextListener.java
+END
+HandlerManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/HandlerManagerFactory.java
+END
+PrimitiveInstanceDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1058231/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/PrimitiveInstanceDescription.java
+END
+FieldInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/FieldInterceptor.java
+END
+ContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/697862/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ContextSource.java
+END
+PrimitiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/PrimitiveHandler.java
+END
+Pojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/Pojo.java
+END
+IPojoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1037859/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/IPojoFactory.java
+END
+Extender.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1147659/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/Extender.java
+END
+MissingHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/MissingHandlerException.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1037859/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/ErrorHandler.java
+END
+EventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/912098/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/EventDispatcher.java
+END
+IPOJOServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/IPOJOServiceFactory.java
+END
+Nullable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/Nullable.java
+END

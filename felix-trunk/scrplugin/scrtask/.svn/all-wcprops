@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1176892/felix/trunk/scrplugin/scrtask
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1078727/felix/trunk/scrplugin/scrtask/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1025968/felix/trunk/scrplugin/scrtask/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1176892/felix/trunk/scrplugin/scrtask/changelog.txt
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1149206/felix/trunk/scrplugin/scrtask/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1146805/felix/trunk/scrplugin/scrtask/pom.xml
+END

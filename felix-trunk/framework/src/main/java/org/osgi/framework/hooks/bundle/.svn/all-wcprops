@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/bundle
+END
+FindHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/bundle/FindHook.java
+END
+EventHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1124290/felix/trunk/framework/src/main/java/org/osgi/framework/hooks/bundle/EventHook.java
+END

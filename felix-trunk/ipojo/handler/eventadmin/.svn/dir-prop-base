@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 147
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+target
+bin
+.settings
+.checkstyle
+.classpath
+.project
+org.apache.felix.ipojo.handler.eventadmin.iml
+
+END

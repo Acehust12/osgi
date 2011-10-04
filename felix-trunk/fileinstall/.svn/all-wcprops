@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1166675/felix/trunk/fileinstall
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1055490/felix/trunk/fileinstall/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/689086/felix/trunk/fileinstall/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1055490/felix/trunk/fileinstall/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1066475/felix/trunk/fileinstall/pom.xml
+END

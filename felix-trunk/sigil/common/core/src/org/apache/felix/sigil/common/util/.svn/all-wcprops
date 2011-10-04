@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/982975/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/util
+END
+ManifestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/982975/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/util/ManifestUtil.java
+END
+QuoteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982975/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/util/QuoteUtil.java
+END

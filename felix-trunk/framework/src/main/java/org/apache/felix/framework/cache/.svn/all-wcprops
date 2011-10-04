@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1173319/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache
+END
+DirectoryContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/DirectoryContent.java
+END
+DirectoryRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/DirectoryRevision.java
+END
+JarContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/JarContent.java
+END
+BundleArchiveRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1134341/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/BundleArchiveRevision.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1152864/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/Content.java
+END
+ContentDirectoryContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1152864/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/ContentDirectoryContent.java
+END
+BundleArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1173319/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/BundleArchive.java
+END
+JarRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/JarRevision.java
+END
+BundleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1173319/felix/trunk/framework/src/main/java/org/apache/felix/framework/cache/BundleCache.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/996074/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/eclipse
+END
+OSGiInstallRepositoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/eclipse/OSGiInstallRepositoryProvider.java
+END
+OSGiInstallRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/982975/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/eclipse/OSGiInstallRepository.java
+END
+WorkspaceRepositoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/eclipse/WorkspaceRepositoryProvider.java
+END
+WorkspaceRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/996074/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/eclipse/WorkspaceRepository.java
+END

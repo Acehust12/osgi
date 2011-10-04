@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/repository
+END
+IRepositoryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/repository/IRepositoryModel.java
+END
+IRepositoryPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/repository/IRepositoryPreferences.java
+END
+IRepositoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/repository/IRepositoryType.java
+END

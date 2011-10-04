@@ -1,0 +1,431 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk
+http://svn.apache.org/repos/asf
+
+
+
+2011-10-02T09:09:09.775737Z
+1178159
+clement
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+http
+dir
+
+org.apache.felix.daemon
+dir
+
+webconsole-plugins
+dir
+
+maven-obr-plugin
+dir
+
+doap
+dir
+
+servicebinder
+dir
+
+org.osgi.compendium
+dir
+
+shell.gui.plugin
+dir
+
+src
+dir
+
+useradmin
+dir
+
+metatype
+dir
+
+bundleplugin
+dir
+
+deploymentadmin
+dir
+
+eventadmin
+dir
+
+pom.xml
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+22184e6fab75e2dbb9beb11b9b1a84b0
+2011-08-11T19:20:37.593733Z
+1156754
+rickhall
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4695
+
+org.osgi.foundation
+dir
+
+javax.servlet
+dir
+
+build_run.sh
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+cd390f9a5b2afa46fc2756fdc935c57f
+2007-05-18T16:23:15.307236Z
+539512
+rickhall
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+framework
+dir
+
+mishell
+dir
+
+build.xml
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+3bd98e7f007d1d4fe9350bc2cf757467
+2010-03-26T14:02:26.655669Z
+927855
+gnodet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3841
+
+webconsole
+dir
+
+tools
+dir
+
+main.distribution
+dir
+
+fileinstall
+dir
+
+sigil
+dir
+
+shell
+dir
+
+jmood
+dir
+
+jmxintrospector
+dir
+
+check_staged_release.sh
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+386a52cb22c0217c1aea024add459a08
+2011-03-04T11:00:19.063373Z
+1077867
+cziegeler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2563
+
+org.osgi.core
+dir
+
+mosgi
+dir
+
+configadmin
+dir
+
+wireadmin
+dir
+
+prefs
+dir
+
+ipojo
+dir
+
+installers
+dir
+
+log
+dir
+
+deviceaccess
+dir
+
+upnp
+dir
+
+coordinator
+dir
+
+main
+dir
+
+transaction
+dir
+
+scr
+dir
+
+shell.gui
+dir
+
+gogo
+dir
+
+pom
+dir
+
+service
+dir
+
+utils
+dir
+
+shell.remote
+dir
+
+framework.security
+dir
+
+stage_existing_artifact.sh
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+7661153151910df3569cda6cf80189fa
+2009-04-27T16:28:44.406899Z
+769050
+mcculls
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1826
+
+.gitignore
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+7d8b09d1db8bcbd0d0601e7ea2af5d2e
+2010-10-10T21:12:13.926666Z
+1006351
+fmeschbe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+136
+
+scrplugin
+dir
+
+io
+dir
+
+org.osgi.service.obr
+dir
+
+shell.tui
+dir
+
+bundlerepository
+dir
+
+dependencymanager
+dir
+
+commons
+dir
+
+readme.txt
+file
+
+
+
+
+2011-10-04T15:05:49.000000Z
+50daffa9381b6aed09d053a43ed869fa
+2005-08-23T04:50:13.541338Z
+239345
+tbennett
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1390
+
+examples
+dir
+

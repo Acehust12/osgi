@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1126383/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite
+END
+Dependency1.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1086725/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite/Dependency1.java
+END
+Dependency2.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1086725/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite/Dependency2.java
+END
+C1.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1126383/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite/C1.java
+END
+C1Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1126383/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite/C1Service.java
+END
+C2.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1126383/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/composite/C2.java
+END

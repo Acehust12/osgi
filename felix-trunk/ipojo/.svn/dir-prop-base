@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 181
+classes
+target
+*.log
+*.ipr
+*.iws
+*.iml
+lib
+bundle
+dist
+.project
+.classpath
+bin
+build
+.settings
+.wtpmodules
+.deployables
+.checkstyle
+
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+
+K 13
+svn:mergeinfo
+V 66
+/felix/sandbox/clement/ipojo-constructor-injection:1044402-1052244
+END

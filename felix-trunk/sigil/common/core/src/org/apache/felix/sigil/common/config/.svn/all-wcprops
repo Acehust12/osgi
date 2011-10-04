@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/995661/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config
+END
+BldUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/981577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldUtil.java
+END
+IBldProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/995661/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/IBldProject.java
+END
+BldConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/995661/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldConfig.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/Resource.java
+END
+BldProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/995661/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldProject.java
+END
+BldConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/994997/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldConverter.java
+END
+BldFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldFactory.java
+END
+BldAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldAttr.java
+END
+BldProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/BldProperties.java
+END
+IRepositoryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/988983/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/config/IRepositoryConfig.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+Multiconstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/Multiconstructor.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType1.java
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/Child.java
+END
+FooBarProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooBarProviderType1.java
+END
+Parent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/Parent.java
+END
+MultipleCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/MultipleCheckService.java
+END
+FooProviderTypeDyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderTypeDyn.java
+END
+Manipulation23Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/component/Manipulation23Tester.java
+END

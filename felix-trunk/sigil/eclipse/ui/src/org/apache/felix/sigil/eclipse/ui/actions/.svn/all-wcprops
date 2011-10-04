@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/995645/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/actions
+END
+DisplayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/actions/DisplayAction.java
+END
+PruneProjectDependenciesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/995645/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/actions/PruneProjectDependenciesAction.java
+END
+ResolveProjectDependenciesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/995645/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/actions/ResolveProjectDependenciesAction.java
+END
+RefreshRepositoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/991128/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/actions/RefreshRepositoryAction.java
+END

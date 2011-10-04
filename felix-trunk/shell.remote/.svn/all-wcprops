@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1002213/felix/trunk/shell.remote
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/988549/felix/trunk/shell.remote/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/693970/felix/trunk/shell.remote/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/687053/felix/trunk/shell.remote/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/988549/felix/trunk/shell.remote/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1002213/felix/trunk/shell.remote/pom.xml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/996073/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager
+END
+ProjectRepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/ProjectRepositoryManager.java
+END
+AbstractEclipseRepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/996073/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/AbstractEclipseRepositoryManager.java
+END
+RepositoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/RepositoryCache.java
+END
+GlobalRepositoryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/GlobalRepositoryConfig.java
+END
+IEclipseBundleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/IEclipseBundleRepository.java
+END
+GlobalRepositoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/GlobalRepositoryManager.java
+END
+EclipseRepositoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/991616/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/EclipseRepositoryFactory.java
+END
+IRepositoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/IRepositoryCache.java
+END
+ProjectRepositoryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/ProjectRepositoryConfig.java
+END
+AbstractEclipseRepositoryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/991605/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/AbstractEclipseRepositoryConfig.java
+END
+EclipseBundleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/repository/manager/EclipseBundleRepository.java
+END

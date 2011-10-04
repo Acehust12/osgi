@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1052506/felix/trunk/ipojo/plugin/src/main/resources/archetype-resources
+END
+bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1052506/felix/trunk/ipojo/plugin/src/main/resources/archetype-resources/bundle.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1052506/felix/trunk/ipojo/plugin/src/main/resources/archetype-resources/pom.xml
+END

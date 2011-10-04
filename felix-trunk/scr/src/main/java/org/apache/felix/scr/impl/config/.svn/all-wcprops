@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1129649/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config
+END
+ImmediateComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1067145/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ImmediateComponentHolder.java
+END
+ScrConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1129533/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ScrConfiguration.java
+END
+ComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/981772/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ComponentHolder.java
+END
+ConfigurationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1067310/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ConfigurationSupport.java
+END
+ScrManagedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1129533/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ScrManagedService.java
+END
+ScrManagedServiceMetaTypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1129533/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ScrManagedServiceMetaTypeProvider.java
+END
+ScrManagedServiceServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1129649/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ScrManagedServiceServiceFactory.java
+END

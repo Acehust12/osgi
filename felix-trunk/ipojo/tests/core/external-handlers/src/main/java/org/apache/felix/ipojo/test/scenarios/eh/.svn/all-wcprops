@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1006293/felix/trunk/ipojo/tests/core/external-handlers/src/main/java/org/apache/felix/ipojo/test/scenarios/eh
+END
+AutoHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1006293/felix/trunk/ipojo/tests/core/external-handlers/src/main/java/org/apache/felix/ipojo/test/scenarios/eh/AutoHandlerTest.java
+END
+ExternalHandlerTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1006281/felix/trunk/ipojo/tests/core/external-handlers/src/main/java/org/apache/felix/ipojo/test/scenarios/eh/ExternalHandlerTestSuite.java
+END
+HandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/external-handlers/src/main/java/org/apache/felix/ipojo/test/scenarios/eh/HandlerTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/mapper
+END
+IdentityResourceMapperTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/mapper/IdentityResourceMapperTestCase.java
+END
+WABResourceMapperTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/mapper/WABResourceMapperTestCase.java
+END
+FileSystemResourceMapperTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/store/mapper/FileSystemResourceMapperTestCase.java
+END

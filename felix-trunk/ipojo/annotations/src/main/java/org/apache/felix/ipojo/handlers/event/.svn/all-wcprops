@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/handlers/event
+END
+Subscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1002041/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/handlers/event/Subscriber.java
+END
+Publisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/handlers/event/Publisher.java
+END
+Publishes.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/handlers/event/Publishes.java
+END

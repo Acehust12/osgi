@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1174750/felix/trunk/http/cometd/src/main/java/org/apache/felix/http/cometd/internal
+END
+CometdConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1076920/felix/trunk/http/cometd/src/main/java/org/apache/felix/http/cometd/internal/CometdConfig.java
+END
+CometdActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1076920/felix/trunk/http/cometd/src/main/java/org/apache/felix/http/cometd/internal/CometdActivator.java
+END
+CometdServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1174750/felix/trunk/http/cometd/src/main/java/org/apache/felix/http/cometd/internal/CometdServiceImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal
+END
+WebConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/WebConsolePlugin.java
+END
+FelixBundleRepositoryRenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/FelixBundleRepositoryRenderHelper.java
+END
+OsgiDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/OsgiDeployer.java
+END
+FelixDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/FelixDeployer.java
+END
+OsgiBundleRepositoryRenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/OsgiBundleRepositoryRenderHelper.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/Activator.java
+END
+AbstractBundleRepositoryRenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole-plugins/obr/src/main/java/org/apache/felix/webconsole/plugins/obr/internal/AbstractBundleRepositoryRenderHelper.java
+END

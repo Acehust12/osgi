@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1151398/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test
+END
+FactoryConfigurationAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FactoryConfigurationAdapterTest.java
+END
+FELIX2348_ResourceAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2348_ResourceAdapterTest.java
+END
+Ensure.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1124260/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/Ensure.java
+END
+FELIX3008_FilterIndexStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1138421/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX3008_FilterIndexStartupTest.java
+END
+ServiceDependencyComponentLifeCycleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceDependencyComponentLifeCycleTest.java
+END
+ServiceDependencyPropagateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceDependencyPropagateTest.java
+END
+FELIX3057_EmptyServiceReferenceArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1151398/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX3057_EmptyServiceReferenceArray.java
+END
+CompositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/CompositionTest.java
+END
+TemporalServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/TemporalServiceDependencyTest.java
+END
+FELIX2078_ServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2078_ServiceDependencyTest.java
+END
+BundleDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/BundleDependencyTest.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/Base.java
+END
+SharingDependenciesWithMultipleServicesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/SharingDependenciesWithMultipleServicesTest.java
+END
+AdapterAndConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AdapterAndConsumerTest.java
+END
+MultipleExtraDependencyTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/MultipleExtraDependencyTest2.java
+END
+FELIX2955_ShellCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1124284/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2955_ShellCommandTest.java
+END
+AspectChainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AspectChainTest.java
+END
+ResourceAdapterDependencyAddAndRemoveTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ResourceAdapterDependencyAddAndRemoveTest2.java
+END
+FilterIndexResourceAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1138482/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FilterIndexResourceAdapterTest.java
+END
+ResourceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ResourceDependencyTest.java
+END
+FELIX2696_ConfigurationAndServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2696_ConfigurationAndServiceDependencyTest.java
+END
+AdapterWithInstanceBoundDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AdapterWithInstanceBoundDependencyTest.java
+END
+AspectWhiteboardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AspectWhiteboardTest.java
+END
+FELIX2369_ExtraDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2369_ExtraDependencyTest.java
+END
+FELIX2344_ExtraDependencyWithCallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2344_ExtraDependencyWithCallbackTest.java
+END
+ServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceDependencyTest.java
+END
+FELIX2344_ExtraDependencyWithAutoConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/FELIX2344_ExtraDependencyWithAutoConfigTest.java
+END
+ResourceAdapterDependencyAddAndRemoveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ResourceAdapterDependencyAddAndRemoveTest.java
+END
+ServiceDependencyInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceDependencyInjectionTest.java
+END
+ServiceDependencyThroughCallbackInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceDependencyThroughCallbackInstanceTest.java
+END
+ServiceUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceUpdateTest.java
+END
+MultipleExtraDependenciesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/MultipleExtraDependenciesTest.java
+END
+ConfigurationDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1137668/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ConfigurationDependencyTest.java
+END
+AspectDynamicsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AspectDynamicsTest.java
+END
+CustomDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/CustomDependencyTest.java
+END
+AspectBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AspectBaseTest.java
+END
+MultipleServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/MultipleServiceDependencyTest.java
+END
+AdapterWithAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AdapterWithAspectTest.java
+END
+ServiceTrackerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ServiceTrackerTest.java
+END
+BundleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1074957/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/BundleGenerator.java
+END
+ComponentLifeCycleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ComponentLifeCycleTest.java
+END
+AbstractServiceDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AbstractServiceDependencyTest.java
+END
+DynamicProxyAspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/DynamicProxyAspectTest.java
+END
+AdapterWithExtraDependenciesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/AdapterWithExtraDependenciesTest.java
+END
+ResourceAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/ResourceAdapterTest.java
+END
+MultipleExtraDependencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1095370/felix/trunk/dependencymanager/test/src/test/java/org/apache/felix/dm/test/MultipleExtraDependencyTest.java
+END

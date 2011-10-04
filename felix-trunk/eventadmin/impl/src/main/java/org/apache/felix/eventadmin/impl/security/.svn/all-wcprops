@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1074155/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/security
+END
+EventAdminSecurityDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/991444/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/security/EventAdminSecurityDecorator.java
+END
+PermissionsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1074155/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/security/PermissionsUtil.java
+END
+SecureEventAdminFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/991444/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/security/SecureEventAdminFactory.java
+END

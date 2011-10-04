@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/test
+END
+PojoWithInner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/java/test/PojoWithInner.java
+END
+AnnotatedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/test/AnnotatedComponent.java
+END
+SimplePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/java/test/SimplePojo.java
+END
+NoValidConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/java/test/NoValidConstructor.java
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/java/test/Child.java
+END
+ClusterDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1144783/felix/trunk/ipojo/manipulator/src/test/java/test/ClusterDaemon.java
+END
+Parent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1052264/felix/trunk/ipojo/manipulator/src/test/java/test/Parent.java
+END

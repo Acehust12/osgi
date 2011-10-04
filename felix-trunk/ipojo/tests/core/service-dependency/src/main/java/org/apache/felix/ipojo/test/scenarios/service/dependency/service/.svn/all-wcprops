@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/service
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/service/FooService.java
+END
+Call.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/service/Call.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/service/CheckService.java
+END

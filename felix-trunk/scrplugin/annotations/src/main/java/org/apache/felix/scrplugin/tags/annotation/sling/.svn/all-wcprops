@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1132949/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling
+END
+SlingFilterServiceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1079728/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingFilterServiceTag.java
+END
+SlingServletComponentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1099777/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingServletComponentTag.java
+END
+SlingFilterComponentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1079728/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingFilterComponentTag.java
+END
+SlingServletPropertyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1124271/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingServletPropertyTag.java
+END
+SlingAnnotationTagProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1132949/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingAnnotationTagProvider.java
+END
+SlingServletServiceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1079728/felix/trunk/scrplugin/annotations/src/main/java/org/apache/felix/scrplugin/tags/annotation/sling/SlingServletServiceTag.java
+END

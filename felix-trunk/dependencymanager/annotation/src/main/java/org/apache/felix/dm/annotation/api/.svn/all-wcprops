@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api
+END
+ServiceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/ServiceDependency.java
+END
+AspectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/AspectService.java
+END
+Unregistered.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Unregistered.java
+END
+AdapterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/AdapterService.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1125833/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Component.java
+END
+LifecycleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1097221/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/LifecycleController.java
+END
+Init.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Init.java
+END
+Composition.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1097220/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Composition.java
+END
+ConfigurationDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/ConfigurationDependency.java
+END
+BundleDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/BundleDependency.java
+END
+ResourceAdapterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/ResourceAdapterService.java
+END
+Inject.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Inject.java
+END
+FactoryConfigurationAdapterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/FactoryConfigurationAdapterService.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Property.java
+END
+PropertyMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/PropertyMetaData.java
+END
+Stop.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Stop.java
+END
+ResourceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/ResourceDependency.java
+END
+Destroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Destroy.java
+END
+BundleAdapterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1097212/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/BundleAdapterService.java
+END
+Registered.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Registered.java
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1132960/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/api/Start.java
+END

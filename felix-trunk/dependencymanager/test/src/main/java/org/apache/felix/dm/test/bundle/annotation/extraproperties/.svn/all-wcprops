@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/extraproperties
+END
+ExtraAspectServiceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/extraproperties/ExtraAspectServiceProperties.java
+END
+ExtraServiceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/995219/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/extraproperties/ExtraServiceProperties.java
+END
+ExtraAdapterServiceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/extraproperties/ExtraAdapterServiceProperties.java
+END
+ExtraFactoryServiceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/extraproperties/ExtraFactoryServiceProperties.java
+END

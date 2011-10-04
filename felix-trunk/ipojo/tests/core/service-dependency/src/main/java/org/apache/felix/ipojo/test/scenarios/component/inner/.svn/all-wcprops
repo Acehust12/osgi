@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inner
+END
+C1.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inner/C1.java
+END
+C2.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inner/C2.java
+END
+C3.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inner/C3.java
+END
+MyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1045175/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inner/MyFilter.java
+END

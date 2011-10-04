@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository
+END
+WizardHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/WizardHelper.java
+END
+RepositoriesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/RepositoriesView.java
+END
+RepositoriesPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/990188/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/RepositoriesPreferencePage.java
+END
+RepositoryTypeSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/991568/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/RepositoryTypeSelectionPage.java
+END
+RepositoryViewData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/RepositoryViewData.java
+END
+RepositoryWizardNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/RepositoryWizardNode.java
+END
+NewRepositoryWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/eclipse/ui/internal/preferences/repository/NewRepositoryWizard.java
+END

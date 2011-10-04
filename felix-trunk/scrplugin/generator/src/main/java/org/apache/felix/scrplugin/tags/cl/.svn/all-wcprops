@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1176353/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl
+END
+ClassLoaderJavaMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl/ClassLoaderJavaMethod.java
+END
+ClassLoaderJavaParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl/ClassLoaderJavaParameter.java
+END
+ClassLoaderJavaField.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl/ClassLoaderJavaField.java
+END
+ClassLoaderJavaClassDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1176353/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl/ClassLoaderJavaClassDescription.java
+END
+ClassLoaderJavaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1156580/felix/trunk/scrplugin/generator/src/main/java/org/apache/felix/scrplugin/tags/cl/ClassLoaderJavaTag.java
+END

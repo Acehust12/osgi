@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1142472/felix/trunk/ipojo/core/src/test/java/org/apache/felix/ipojo/handlers/providedservice
+END
+ComponentTestWithSuperClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1142472/felix/trunk/ipojo/core/src/test/java/org/apache/felix/ipojo/handlers/providedservice/ComponentTestWithSuperClass.java
+END
+ComponentTestWithAnotherSuperClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1142472/felix/trunk/ipojo/core/src/test/java/org/apache/felix/ipojo/handlers/providedservice/ComponentTestWithAnotherSuperClass.java
+END
+ProvidedServiceHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1142472/felix/trunk/ipojo/core/src/test/java/org/apache/felix/ipojo/handlers/providedservice/ProvidedServiceHandlerTest.java
+END

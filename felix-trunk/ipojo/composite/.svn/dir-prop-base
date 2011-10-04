@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 139
+.checkstyle
+.classpath
+.project
+target
+.pmd
+reports
+maven-eclipse.xml
+.settings
+.externalToolBuilders
+org.apache.felix.ipojo.composite.iml
+
+END

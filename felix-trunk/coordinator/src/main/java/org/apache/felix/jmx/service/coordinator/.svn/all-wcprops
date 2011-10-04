@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1067008/felix/trunk/coordinator/src/main/java/org/apache/felix/jmx/service/coordinator
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1067008/felix/trunk/coordinator/src/main/java/org/apache/felix/jmx/service/coordinator/package-info.java
+END
+CoordinatorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1067008/felix/trunk/coordinator/src/main/java/org/apache/felix/jmx/service/coordinator/CoordinatorMBean.java
+END

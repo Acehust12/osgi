@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/asf/!svn/ver/1178159/felix/trunk/ipojo
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/960357/felix/trunk/ipojo/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1159180/felix/trunk/ipojo/pom.xml
+END

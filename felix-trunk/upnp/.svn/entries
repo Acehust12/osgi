@@ -1,0 +1,77 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/upnp
+http://svn.apache.org/repos/asf
+
+
+
+2010-09-09T12:33:51.742482Z
+995403
+lenzi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+extra
+dir
+
+samples
+dir
+
+doc
+dir
+
+basedriver
+dir
+
+tester
+dir
+
+pom.xml
+file
+
+
+
+
+2011-10-04T15:05:27.000000Z
+c7276aebe5888d6f395c18bba9e6ec09
+2009-05-22T16:01:40.059147Z
+777591
+lenzi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2904
+

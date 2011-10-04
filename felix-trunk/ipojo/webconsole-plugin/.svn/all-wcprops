@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1073739/felix/trunk/ipojo/webconsole-plugin
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1054568/felix/trunk/ipojo/webconsole-plugin/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/795564/felix/trunk/ipojo/webconsole-plugin/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/789599/felix/trunk/ipojo/webconsole-plugin/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1062891/felix/trunk/ipojo/webconsole-plugin/DEPENDENCIES
+END
+LICENSE.json
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/963748/felix/trunk/ipojo/webconsole-plugin/LICENSE.json
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1065322/felix/trunk/ipojo/webconsole-plugin/pom.xml
+END

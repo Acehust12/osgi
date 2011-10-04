@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/package-frame.html
+END
+ObrUpdate.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrUpdate.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/package-summary.html
+END
+RemoteFileManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/RemoteFileManager.html
+END
+AbstractFileMojo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/AbstractFileMojo.html
+END
+PomHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/PomHelper.html
+END
+ObrDeployFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrDeployFile.html
+END
+ObrDeploy.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrDeploy.html
+END
+XmlHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/XmlHelper.html
+END
+ObrRemoteClean.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrRemoteClean.html
+END
+ObrUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrUtils.html
+END
+Config.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/Config.html
+END
+ObrInstallFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrInstallFile.html
+END
+ObrInstall.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrInstall.html
+END
+ObrIndex.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrIndex.html
+END
+ObrCleanRepo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1143000/felix/trunk/bundleplugin/doc/site/xref/org/apache/felix/obrplugin/ObrCleanRepo.html
+END

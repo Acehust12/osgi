@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1082343/felix/trunk/http/whiteboard
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1063635/felix/trunk/http/whiteboard/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/818529/felix/trunk/http/whiteboard/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1063813/felix/trunk/http/whiteboard/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1063744/felix/trunk/http/whiteboard/pom.xml
+END

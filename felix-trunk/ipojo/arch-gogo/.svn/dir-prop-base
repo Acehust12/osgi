@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 86
+.classpath
+.project
+.settings
+target
+.checkstyle
+org.apache.felix.ipojo.arch.gogo.iml
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/ant/src/main/java/org/apache/felix/ipojo/task
+END
+IPojoTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/ant/src/main/java/org/apache/felix/ipojo/task/IPojoTask.java
+END
+AntReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/ant/src/main/java/org/apache/felix/ipojo/task/AntReporter.java
+END

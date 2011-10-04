@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1062830/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/context
+END
+ServletContextManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1062830/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/context/ServletContextManagerTest.java
+END
+ServletContextImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1062830/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/context/ServletContextImplTest.java
+END

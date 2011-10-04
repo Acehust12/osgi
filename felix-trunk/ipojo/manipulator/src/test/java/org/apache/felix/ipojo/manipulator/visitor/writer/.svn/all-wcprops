@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/visitor/writer
+END
+ManipulatedResourcesWriterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/visitor/writer/ManipulatedResourcesWriterTestCase.java
+END
+ManipulatedResultWriterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/visitor/writer/ManipulatedResultWriterTestCase.java
+END

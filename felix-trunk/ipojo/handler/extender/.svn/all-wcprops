@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1071294/felix/trunk/ipojo/handler/extender
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/679299/felix/trunk/ipojo/handler/extender/metadata.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1054568/felix/trunk/ipojo/handler/extender/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/683604/felix/trunk/ipojo/handler/extender/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/679299/felix/trunk/ipojo/handler/extender/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1062891/felix/trunk/ipojo/handler/extender/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/964124/felix/trunk/ipojo/handler/extender/pom.xml
+END

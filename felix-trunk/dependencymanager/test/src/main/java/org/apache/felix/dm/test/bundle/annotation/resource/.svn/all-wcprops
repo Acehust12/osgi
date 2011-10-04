@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1125833/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource
+END
+ServiceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/926396/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ServiceInterface.java
+END
+ResourceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1125833/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ResourceProvider.java
+END
+ResourceConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ResourceConsumer.java
+END
+ResourceConsumerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1067937/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ResourceConsumerField.java
+END
+ServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1125833/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ServiceProvider.java
+END
+ServiceConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1064331/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/resource/ServiceConsumer.java
+END

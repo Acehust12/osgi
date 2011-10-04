@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener
+END
+ServletRequestAttributeListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/ServletRequestAttributeListenerManager.java
+END
+AbstractListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/AbstractListenerManager.java
+END
+HttpSessionListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/HttpSessionListenerManager.java
+END
+HttpSessionAttributeListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/HttpSessionAttributeListenerManager.java
+END
+ServletContextAttributeListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/ServletContextAttributeListenerManager.java
+END
+ServletRequestListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1057092/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/listener/ServletRequestListenerManager.java
+END

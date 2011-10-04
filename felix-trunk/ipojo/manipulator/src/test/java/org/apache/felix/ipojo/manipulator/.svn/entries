@@ -1,0 +1,80 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-18T11:32:19.549346Z
+1159173
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+render
+dir
+
+visitor
+dir
+
+metadata
+dir
+
+ManipulationEngineTestCase.java
+file
+
+
+
+
+2011-10-04T15:05:01.000000Z
+d5e38e364ab587b35b4dc1c474fe28b9
+2011-08-18T11:32:19.549346Z
+1159173
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3943
+
+manifest
+dir
+
+store
+dir
+
+util
+dir
+

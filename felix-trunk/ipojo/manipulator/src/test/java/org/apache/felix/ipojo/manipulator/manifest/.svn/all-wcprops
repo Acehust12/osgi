@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/manifest
+END
+DirectManifestProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/manifest/DirectManifestProviderTestCase.java
+END
+FileManifestProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159173/felix/trunk/ipojo/manipulator/src/test/java/org/apache/felix/ipojo/manipulator/manifest/FileManifestProviderTestCase.java
+END

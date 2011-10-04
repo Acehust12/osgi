@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1143664/felix/trunk/webconsole/src/main/resources/templates
+END
+bundles.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1001030/felix/trunk/webconsole/src/main/resources/templates/bundles.html
+END
+main_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1000446/felix/trunk/webconsole/src/main/resources/templates/main_header.html
+END
+vmstat.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1143664/felix/trunk/webconsole/src/main/resources/templates/vmstat.html
+END
+deployment.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/deployment.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/license.html
+END
+main_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/910864/felix/trunk/webconsole/src/main/resources/templates/main_footer.html
+END
+obr.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/984322/felix/trunk/webconsole/src/main/resources/templates/obr.html
+END
+vmstat_restart.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/vmstat_restart.html
+END
+services.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/services.html
+END
+vmstat_stop.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/vmstat_stop.html
+END
+logs.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/logs.html
+END
+components.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/981808/felix/trunk/webconsole/src/main/resources/templates/components.html
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/config.html
+END
+shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/957836/felix/trunk/webconsole/src/main/resources/templates/shell.html
+END

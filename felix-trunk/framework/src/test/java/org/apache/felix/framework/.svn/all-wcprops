@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1163265/felix/trunk/framework/src/test/java/org/apache/felix/framework
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/957239/felix/trunk/framework/src/test/java/org/apache/felix/framework/FilterTest.java
+END
+ServiceRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1127267/felix/trunk/framework/src/test/java/org/apache/felix/framework/ServiceRegistryTest.java
+END
+BootLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/901221/felix/trunk/framework/src/test/java/org/apache/felix/framework/BootLoaderTest.java
+END
+StartStopBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1060882/felix/trunk/framework/src/test/java/org/apache/felix/framework/StartStopBundleTest.java
+END

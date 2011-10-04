@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/994943/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl
+END
+AbstractOBRBundleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/994943/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/AbstractOBRBundleRepository.java
+END
+OBRHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/991159/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/OBRHandler.java
+END
+VersionRangeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/VersionRangeHelper.java
+END
+NonCachingOBRBundleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/994943/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/NonCachingOBRBundleRepository.java
+END
+OBRListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/OBRListener.java
+END
+CachingOBRBundleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/994943/felix/trunk/sigil/common/obr/src/org/apache/felix/sigil/common/obr/impl/CachingOBRBundleRepository.java
+END

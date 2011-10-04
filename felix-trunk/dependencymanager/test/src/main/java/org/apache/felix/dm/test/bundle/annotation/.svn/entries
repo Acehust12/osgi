@@ -1,0 +1,76 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation
+http://svn.apache.org/repos/asf
+
+
+
+2011-05-24T10:05:44.431277Z
+1126961
+pderop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+aspect
+dir
+
+adapter
+dir
+
+propagate
+dir
+
+temporal
+dir
+
+resource
+dir
+
+simple
+dir
+
+sequencer
+dir
+
+multiple
+dir
+
+publisher
+dir
+
+aspectlifecycle
+dir
+
+extraproperties
+dir
+
+composite
+dir
+
+aspectlifecycledynamicproxy
+dir
+
+factory
+dir
+
+bundledependency
+dir
+
+factoryconfadapter
+dir
+

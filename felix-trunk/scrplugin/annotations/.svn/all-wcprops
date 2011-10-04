@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1158706/felix/trunk/scrplugin/annotations
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1078727/felix/trunk/scrplugin/annotations/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/annotations/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1158706/felix/trunk/scrplugin/annotations/changelog.txt
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1149206/felix/trunk/scrplugin/annotations/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1146797/felix/trunk/scrplugin/annotations/pom.xml
+END

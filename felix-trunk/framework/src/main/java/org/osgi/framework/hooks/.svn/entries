@@ -1,0 +1,40 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/framework/src/main/java/org/osgi/framework/hooks
+http://svn.apache.org/repos/asf
+
+
+
+2011-08-02T14:53:25.798244Z
+1153153
+rickhall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+service
+dir
+
+weaving
+dir
+
+resolver
+dir
+
+bundle
+dir
+

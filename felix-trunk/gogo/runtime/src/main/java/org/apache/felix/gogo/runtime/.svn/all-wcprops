@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime
+END
+CommandProcessorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1076415/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/CommandProcessorImpl.java
+END
+CommandProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/CommandProxy.java
+END
+SyntaxError.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/949206/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/SyntaxError.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/949206/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Token.java
+END
+EOFError.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/949206/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/EOFError.java
+END
+CommandSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1055258/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/CommandSessionImpl.java
+END
+Evaluate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/949206/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Evaluate.java
+END
+Reflective.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Reflective.java
+END
+CommandNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/999381/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/CommandNotFoundException.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/962374/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Tokenizer.java
+END
+Closure.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Closure.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/944297/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Parser.java
+END
+Pipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/999070/felix/trunk/gogo/runtime/src/main/java/org/apache/felix/gogo/runtime/Pipe.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/scrtask/src/main/java/org/apache/felix/scrplugin/ant
+END
+AntJavaClassDescriptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/scrtask/src/main/java/org/apache/felix/scrplugin/ant/AntJavaClassDescriptorManager.java
+END
+AntLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/scrtask/src/main/java/org/apache/felix/scrplugin/ant/AntLog.java
+END
+SCRDescriptorTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1025937/felix/trunk/scrplugin/scrtask/src/main/java/org/apache/felix/scrplugin/ant/SCRDescriptorTask.java
+END

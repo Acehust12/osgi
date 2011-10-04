@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime
+END
+TestCoercion.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime/TestCoercion.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/999273/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime/Context.java
+END
+TestTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/944297/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime/TestTokenizer.java
+END
+TestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1134928/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime/TestParser.java
+END
+TestParser2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/962374/felix/trunk/gogo/runtime/src/test/java/org/apache/felix/gogo/runtime/TestParser2.java
+END

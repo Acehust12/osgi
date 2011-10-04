@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1166104/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl
+END
+ScrGogoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1052345/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/ScrGogoCommand.java
+END
+ComponentActorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1067020/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/ComponentActorThread.java
+END
+ScrCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1067143/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/ScrCommand.java
+END
+BundleComponentActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1166104/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/BundleComponentActivator.java
+END
+ComponentRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1067309/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/ComponentRegistry.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1067145/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/Activator.java
+END
+ScrShellCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1052345/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/ScrShellCommand.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/test/java/org/apache/felix/framework/util
+END
+EventDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1151599/felix/trunk/framework/src/test/java/org/apache/felix/framework/util/EventDispatcherTest.java
+END
+WeakZipFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1161751/felix/trunk/framework/src/test/java/org/apache/felix/framework/util/WeakZipFileTest.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943675/felix/trunk/framework/src/test/java/org/apache/felix/framework/util/UtilTest.java
+END

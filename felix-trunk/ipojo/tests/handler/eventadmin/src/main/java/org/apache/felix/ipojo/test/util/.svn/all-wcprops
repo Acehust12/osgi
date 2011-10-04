@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/util
+END
+IPojoTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/util/IPojoTestUtils.java
+END
+EahTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/util/EahTestUtils.java
+END

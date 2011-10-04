@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1169777/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1147461/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/ConfigManager.java
+END
+LogServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1027069/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/LogServlet.java
+END
+ConfigManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1085018/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/ConfigManagerBase.java
+END
+WireAdminConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/963218/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/WireAdminConfigurationPrinter.java
+END
+ConfigurationAdminConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/912577/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/ConfigurationAdminConfigurationPrinter.java
+END
+PreferencesConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/912577/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/compendium/PreferencesConfigurationPrinter.java
+END

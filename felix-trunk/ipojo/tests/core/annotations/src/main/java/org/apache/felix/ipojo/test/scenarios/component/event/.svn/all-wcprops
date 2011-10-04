@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/event
+END
+PubSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1002041/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/event/PubSub.java
+END
+PubSubDeprecated.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1002041/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/event/PubSubDeprecated.java
+END
+PubSubWithPublishes.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1005120/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/event/PubSubWithPublishes.java
+END

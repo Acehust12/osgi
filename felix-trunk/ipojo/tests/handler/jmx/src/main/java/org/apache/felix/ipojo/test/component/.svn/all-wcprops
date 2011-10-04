@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1023216/felix/trunk/ipojo/tests/handler/jmx/src/main/java/org/apache/felix/ipojo/test/component
+END
+SimpleManagedComponentAnnotated.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1023216/felix/trunk/ipojo/tests/handler/jmx/src/main/java/org/apache/felix/ipojo/test/component/SimpleManagedComponentAnnotated.java
+END
+SimpleManagedComponentAnnotatedDeprecated.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1023216/felix/trunk/ipojo/tests/handler/jmx/src/main/java/org/apache/felix/ipojo/test/component/SimpleManagedComponentAnnotatedDeprecated.java
+END
+SimpleManagedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1023216/felix/trunk/ipojo/tests/handler/jmx/src/main/java/org/apache/felix/ipojo/test/component/SimpleManagedComponent.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1161460/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd
+END
+ResourceMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159950/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd/ResourceMetadataProvider.java
+END
+PojoizationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1159950/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd/PojoizationPlugin.java
+END
+BndJarResourceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1161460/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd/BndJarResourceStore.java
+END
+BndReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1159950/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd/BndReporter.java
+END
+ByteArrayResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1159950/felix/trunk/ipojo/bnd-ipojo-plugin/src/main/java/org/apache/felix/ipojo/bnd/ByteArrayResource.java
+END

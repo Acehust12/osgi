@@ -1,0 +1,147 @@
+10
+
+dir
+1178825
+http://svn.apache.org/repos/asf/felix/trunk/ipojo
+http://svn.apache.org/repos/asf
+
+
+
+2011-10-02T09:09:09.775737Z
+1178159
+clement
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+metadata
+dir
+
+ant
+dir
+
+core
+dir
+
+pom.xml
+file
+
+
+
+
+2011-10-04T15:05:21.000000Z
+8a455b062d826926c47eb81d35cb8727
+2011-08-18T11:36:26.413883Z
+1159180
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3462
+
+manipulator
+dir
+
+webconsole-plugin
+dir
+
+annotations
+dir
+
+plugin
+dir
+
+junit4osgi
+dir
+
+composite
+dir
+
+tests
+dir
+
+.gitignore
+file
+
+
+
+
+2011-10-04T15:05:21.000000Z
+f449ab318d7338cd35e924e36324f2ac
+2010-07-04T16:23:12.077583Z
+960357
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+
+arch-gogo
+dir
+
+api
+dir
+
+bnd-ipojo-plugin
+dir
+
+online-manipulator
+dir
+
+handler
+dir
+
+arch
+dir
+
+examples
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1084783/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model
+END
+IModelWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/IModelWalker.java
+END
+ModelElementFactoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/ModelElementFactoryException.java
+END
+ModelElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/ModelElementFactory.java
+END
+AbstractCompoundModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/AbstractCompoundModelElement.java
+END
+IModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/IModelElement.java
+END
+IRequirementModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/IRequirementModelElement.java
+END
+ICapabilityModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/ICapabilityModelElement.java
+END
+IModelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/IModelInfo.java
+END
+InvalidModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/InvalidModelException.java
+END
+ModelElementSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1084783/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/ModelElementSupport.java
+END
+ICompoundModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/ICompoundModelElement.java
+END
+INamedModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/INamedModelElement.java
+END
+OverrideOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/OverrideOptions.java
+END
+AbstractModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/981604/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/common/model/AbstractModelElement.java
+END
